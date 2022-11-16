@@ -1,0 +1,18 @@
+p {
+  background-color: rgb(255, 182, 193);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#big-blue {
+  font-size: 36px;
+  color: rgb(0, 0, 255);
+}
+
+.heading {
+  font-size: 24px;
+}
+
+.highlight {
+  background-color: yellowgreen;
+  font-weight: bold;
+}
